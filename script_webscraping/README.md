@@ -1,3 +1,3 @@
-#Scrip WebScraping
+# Scrip WebScraping
 
 >Script que realiza un WebScraping
