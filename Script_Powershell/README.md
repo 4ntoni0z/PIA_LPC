@@ -1,2 +1,5 @@
 # Scrpt en powershell
->Carpeta creada paraa almacenar el script realizado en la practica de Script de Powershell
+>Ejemplo de dos scripts en donde se hace el esceno de puertos que por lo general estan abiertos en una sub red
+>Requisitos:
+>-Powershell
+
