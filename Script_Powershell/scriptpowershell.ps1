@@ -1,4 +1,6 @@
-
+#Juan Antonio Sena Castillo
+#1973595
+#Grupo 062
 
 #dterminando el gateway
 $subred= (Get-Netroute -DestinationPrefix 0.0.0.0/0).NextHop
