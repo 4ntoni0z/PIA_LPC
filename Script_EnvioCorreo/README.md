@@ -1,4 +1,4 @@
-# Script envio de puertos 
+# Script envio de correos 
 >Script que hace el envio de correos y dajunta uan archivo que tambien se envia en el cuerpo del correo<br><br>
 ## Requisitos de script:
 
